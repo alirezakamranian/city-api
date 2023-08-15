@@ -30,3 +30,4 @@ C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Debug\net6.0\refint\
 C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Debug\net6.0\City.api.pdb
 C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Debug\net6.0\City.api.genruntimeconfig.cache
 C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Debug\net6.0\ref\City.api.dll
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\bin\Debug\net6.0\api.rar

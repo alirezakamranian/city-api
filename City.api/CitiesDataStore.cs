@@ -23,7 +23,7 @@ namespace City.api
                                 Name="khooneh",
                                 Description="kheyli khoobeh"
                             }
-                        }},
+                    }   },
 
                     new CityDto(){Id=2,Name="tiroon",Description="hi im kami",
                         PointsOfIntrest =new List<PointsOfIntrestDto>()
@@ -40,7 +40,7 @@ namespace City.api
                                 Name="karavansara",
                                 Description="kheyli khoobeh"
                             }
-                        } },
+                    }   },
 
                     new CityDto(){Id=3,Name="njebad",Description="hi im kami",
                         PointsOfIntrest =new List<PointsOfIntrestDto>()
@@ -51,7 +51,8 @@ namespace City.api
                                 Name="haramsara",
                                 Description="kheyli khoobeh"
                             }
-                        } }
+                        }
+                    }
             };
         }
     }

@@ -1,0 +1,12 @@
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\api.rar
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\City.api.exe
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\City.api.dll
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\City.api.deps.json
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\City.api.runtimeconfig.json
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\City.api.pdb
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AlirezaKmranian\source\repos\City.api\City.api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
