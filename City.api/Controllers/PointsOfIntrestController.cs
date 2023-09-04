@@ -7,6 +7,11 @@ namespace City.api.Controllers
     [ApiController]
     public class PointsOfIntrestController : ControllerBase
     {
+        private readonly ILogger<PointsOfIntrestController> _logger;
+        public PointsOfIntrestController(ILogger<PointsOfIntrestController> logger)
+        {
+            _logger = logger;
+        }
         #region GetAll
         [HttpGet()]
         public ActionResult<ICollection<PointsOfIntrestDto>> GetPointsOfIntrest(int cityId)
@@ -16,6 +21,7 @@ namespace City.api.Controllers
             {
                 return NotFound();
             }
+            _logger.LogCritical("hmmmmmmmmm");
             return Ok(city.PointsOfIntrest);
         }
         #endregion
